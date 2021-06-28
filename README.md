@@ -7,6 +7,8 @@
 자세한 내용은
 - [피터의 Deta 사용기 (0) Deta란 무엇인가](https://velog.io/@peeeeeter_j/피터의-Deta-사용기-0)
 - [피터의 Deta 사용기 (1) Deta Base](https://velog.io/@peeeeeter_j/피터의-Deta-사용기-1)
+- [피터의 Deta 사용기 (2) Deta Micros](https://velog.io/@peeeeeter_j/피터의-Deta-사용기-2)
+- [피터의 Deta 사용기 (3) Deta Drive](https://velog.io/@peeeeeter_j/피터의-Deta-사용기-3)
 
 Dependencies
 ---
